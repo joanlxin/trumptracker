@@ -32,17 +32,6 @@ statuses:
 
 promises:
     -
-        title: 'No more trips Maralago'
-        status: Broken
-        category: Culture
-        tags:
-            - 'Contract with the American Voter - 100 Day Plan'
-        comments: 'https://redd.it/5d4r8m'
-        sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-    -
         title: 'Propose a Constitutional Amendment to impose term limits on all members of Congress'
         status: Not started
         category: First 100 Days
@@ -53,7 +42,17 @@ promises:
             - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
             - 'https://youtu.be/4t1xR9U6IAU?t=44s'
             - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-    -
+   -
+        title: 'No more trips Maralago'
+        status: Broken
+        category: Culture
+        tags:
+            - 'Contract with the American Voter - 100 Day Plan'
+        comments: 'https://redd.it/5d4r8m'
+        sources:
+            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
+            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
+            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'  -
         title: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition (exempting military, public safety, and public health);'
         status: Achieved
         category: First 100 Days
@@ -1838,3 +1837,5 @@ promises:
             - 'https://web.archive.org/web/20161110165423/http://www.nydailynews.com/news/politics/donald-trump-big-list-promises-article-1.2865483'
             - 'https://web.archive.org/web/20150904162213/http://www.hughhewitt.com/donald-trump-on-the-day-he-took-the-pledge/'
             - 'https://web.archive.org/web/20160818120008/http://www.hughhewitt.com/wp-content/uploads/09-03-Trump.mp3'
+    -
+        title:
